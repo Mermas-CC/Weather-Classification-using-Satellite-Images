@@ -1,0 +1,8 @@
+# Ignorar el entorno virtual
+procesamiento_venv/
+
+# Ignorar el carpera imagenes
+imagenes_satelite/
+
+# Ignorar el carpera imagenes
+imgs_nuevo3/
